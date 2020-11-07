@@ -1,0 +1,9 @@
+# Eclipse and Maven Ignores
+.metadata
+.classpath
+.project
+.settings/
+.DS_Store
+log/
+target/
+
